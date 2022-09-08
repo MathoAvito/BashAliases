@@ -7,4 +7,4 @@ Backup of my default .bashrc file
 
 aliases
 ---------------
-My aliases
+My aliases file
