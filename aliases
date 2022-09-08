@@ -1,0 +1,27 @@
+### git aliases ###
+alias gitlog='git log --all --decorate --oneline --graph'
+alias gitco='git checkout'
+alias gits='git status'
+alias gitcam='git commit -am'
+
+### docker aliases ###
+alias dp='docker ps'
+alias dil='docker image ls'
+alias dl='docker logs'
+
+### bash aliases ###
+alias c='clear'
+alias h='history'
+alias ..="cd .."
+alias ..2="cd ../.."
+alias ..3="cd ../../.."
+
+### system aliases ###
+alias sm='gnome-system-monitor'
+
+### kubernetes aliases ###
+alias k='kubectl'
+alias kga='kubectl get all'
+
+### terraform aliases ###
+alias tf='terraform'
